@@ -18,3 +18,14 @@ int main(void)
 		printf("Child process finished.\n");
 	}
 }
+
+
+
+
+OUTPUT:
+
+/tmp/r9gXXIyOtX.o
+Parent = PID: 19600
+Waiting for child process to finish.
+Child = PPID: 19600 PID: 0
+Child process finished.
