@@ -37,3 +37,19 @@ int main()
 	}
 	return 0;
 }
+
+
+
+OUTPUT:
+
+
+/tmp/1GA73FkrWP.o
+Enter no. of blocks: 2
+Enter size of each block: 1
+1
+Enter no. of processes: 2
+Enter size of each process: 1
+2
+2Block no.	size		process no.		size
+1		1		1			1
+2		1		Not allocated
